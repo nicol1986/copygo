@@ -4,4 +4,4 @@
 
 #rm -rf *
 
-#git clone https://github.com/malaohu/goproxy-php.git && mv goproxy-php/* ./
+#git clone https://github.com/nicol1986/copygo.git && mv goproxy-php/* ./
