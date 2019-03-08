@@ -1,7 +1,7 @@
 # goproxy-php
 
-#cd /home/vcap/app/htdocs
+cd /home/vcap/app/htdocs
 
-#rm -rf *
+rm -rf *
 
-#git clone https://github.com/nicol1986/copygo.git && mv copygo/* ./
+git clone https://github.com/nicol1986/copygo.git && mv copygo/* ./
